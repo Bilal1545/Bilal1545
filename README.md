@@ -1,4 +1,4 @@
-# Skills
+Hi, I'm Bilal. I use arch btw.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,js,ts,html,css,gtk,php,py)](https://skillicons.dev)
 
