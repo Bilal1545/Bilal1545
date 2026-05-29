@@ -4,7 +4,7 @@ Hi, I'm Bilal. I use arch btw.
   <img 
     src="https://raw.githubusercontent.com/Bilal1545/quickscript/refs/heads/main/logo.svg"
     alt="QS"
-    width="200"
+    width="48"
   />
 </a>
 
