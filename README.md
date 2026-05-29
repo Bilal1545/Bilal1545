@@ -8,8 +8,6 @@ Hi, I'm Bilal. I use arch btw.
     />
   </a>
 
-  &nbsp;&nbsp;
-
   <a href="https://github.com/Bilal1545/quickscript">
     <img 
       src="https://raw.githubusercontent.com/Bilal1545/quickscript/refs/heads/main/logo.svg"
